@@ -5,6 +5,7 @@ import { Canvas } from "@react-three/fiber";
 import "./App.css";
 
 function App() {
+// npm install -g gltf-pipeline
 // gltf-pipeline -i scene.gltf -o model.glb --draco.compressionLevel 10 -d -b
 // npm i -g gltfjsx
 // gltfjsx model.glb
